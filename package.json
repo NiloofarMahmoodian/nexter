@@ -1,8 +1,7 @@
 {
   "name": "Nexter",
   "version": "1.0.0",
-  "description": "Nexter webpage",
-  "main": "index.js",
+  "description": "Nexter Webpage",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "devserver": "live-server --browser=firefox",
